@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RPS_Game">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RPS_Game.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
